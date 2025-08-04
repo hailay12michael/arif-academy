@@ -26,7 +26,7 @@ const FAQ = () => {
         },
         {
             id: 2,
-            question: 'How do I sign up for Career Insight?',
+            question: 'How do I sign up for Arif Academy?',
             answer: 'You can sign up by clicking the "Sign Up" button on the homepage and providing your name, email address, and a password.',
         },
         {
@@ -36,7 +36,7 @@ const FAQ = () => {
         },
         {
             id: 4,
-            question: 'Is Career Insight free to use?',
+            question: 'Is Career Arif Academy?',
             answer: 'Yes, Career Insight offers a free plan for students. Some advanced features might be available through a premium subscription.',
         },
     ];

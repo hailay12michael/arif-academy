@@ -68,7 +68,7 @@ const App = () => {
               }
             />
             <Route
-              path="/viewcourse/:id/careerinsight/:coursename"
+              path="/viewcourse/:id/arifacademy/:coursename"
               element={<ViewCourseLayout />}
             />
             <Route path="/about" element={<AboutUs />} />
@@ -168,7 +168,7 @@ const App = () => {
               }
             />
             <Route
-              path={`/viewmyresume/:resumeId/careerinsight/:userId/:username`}
+              path={`/viewmyresume/:resumeId/arif academy/:userId/:username`}
               element={<ViewMyResume />}
             />
             {/* Resume Builder Ends*/}

@@ -106,7 +106,7 @@ const CompanyVisits = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    document.title = `CAREERINSIGHT | COMPANY VISITS`;
+    document.title = `Arif Academy | COMPANY VISITS`;
   }, []);
 
   useEffect(() => {

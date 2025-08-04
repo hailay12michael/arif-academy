@@ -34,7 +34,7 @@ const Features = () => {
             <div>
                 <div className="text-center mb-12">
                     <h2 className="text-3xl font-extrabold sm:text-4xl">
-                        Elevate with <span className='text-primary'>Career Insight</span>
+                        Elevate with <span className='text-primary'>Arif Academy</span>
                     </h2>
                     <p className="mt-4 text-lg font-medium text-gray-500">
                         Leverage the power of AI to achieve your goals and enhance your learning journey

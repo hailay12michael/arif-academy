@@ -23,10 +23,10 @@ const WebDetails = () => {
 
                 <div className="w-full lg:w-1/2 text-white text-center lg:text-left">
                     <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight">
-                        Explore Career Opportunities with <span className="italic">Career Insight</span>
+                        Explore Career Opportunities with <span className="italic">Arif Academy</span>
                     </h2>
                     <p className="mt-4 text-base sm:text-lg font-medium">
-                        CareerInsight provides a platform to explore and plan your career path efficiently. Our user-friendly
+                    Arif Academy provides a platform to explore and plan your career path efficiently. Our user-friendly
                         dashboard helps you track progress, gain insights, and make informed decisions to achieve your goals.
                     </p>
 

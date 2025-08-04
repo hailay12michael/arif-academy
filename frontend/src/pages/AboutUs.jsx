@@ -30,7 +30,7 @@ const AboutUs = () => {
                         About <span className="text-primary">Us</span>
                     </h1>
                     <p className="text-lg leading-relaxed text-start font-semibold tracking-tight">
-                        At <span className="text-primary font-bold">Career Insight</span>, we empower 2nd and 3rd-year students by providing insights into trending technologies. Our platform helps you stay ahead in the tech world by curating the latest trends in software development, data science, artificial intelligence, and more. With a focus on usability and relevance, we ensure your learning journey is informative and efficient.
+                        At <span className="text-primary font-bold">Arif Academy</span>, we empower 2nd and 3rd-year students by providing insights into trending technologies. Our platform helps you stay ahead in the tech world by curating the latest trends in software development, data science, artificial intelligence, and more. With a focus on usability and relevance, we ensure your learning journey is informative and efficient.
                     </p>
                 </div>
             </div>
@@ -41,7 +41,7 @@ const AboutUs = () => {
                         Our <span className="text-primary">Story</span>
                     </h1>
                     <p className="text-lg leading-relaxed text-start font-semibold tracking-tight">
-                        <span className="text-primary font-bold">Career Insight</span> was created to bridge the gap between students and the rapidly evolving tech industry. Recognizing the need for an intuitive platform that provides up-to-date trends and resources, we set out to build a solution that keeps you informed. Our mission is to help students explore new tools, frameworks, and technologies, making sure they stay competitive and informed.
+                        <span className="text-primary font-bold">Arif Academy</span> was created to bridge the gap between students and the rapidly evolving tech industry. Recognizing the need for an intuitive platform that provides up-to-date trends and resources, we set out to build a solution that keeps you informed. Our mission is to help students explore new tools, frameworks, and technologies, making sure they stay competitive and informed.
                     </p>
                 </div>
                 <div className="w-full lg:w-8/12 lg:pt-8 ">
@@ -54,7 +54,7 @@ const AboutUs = () => {
                         <div className="p-4 pb-6 flex justify-center flex-col items-center">
                             <img className="rounded-md" src={meet} alt="Alexa featured Img" />
                             <p className="font-medium text-xl leading-5 mt-4">
-                                Meet <span className="text-primary">Dodiya</span>
+                                Meet <span className="text-primary">arif-academy</span>
                             </p>
                         </div>
                         <div className="p-4 pb-6 flex justify-center flex-col items-center">
@@ -64,7 +64,7 @@ const AboutUs = () => {
                                 alt="Olivia featured Img"
                             />
                             <p className="font-medium text-xl leading-5 mt-4">
-                                Kashish <span className="text-primary">Bhanushali</span>
+                               hailemichael <span className="text-primary">assefa</span>
                             </p>
                         </div>
                         <div className="p-4 pb-6 flex justify-center flex-col items-center">
